@@ -1,0 +1,6 @@
+num = int(input("Escreva um número: "))
+print("O antecessor de {} é: {}.".format(num, num - 1))
+print("O sucessor de {} é: {}.".format(num, num +1))
+print("O dobro de {} é: {}.".format(num, num * 2))
+print("O triplo de {} é: {}.".format(num, num *3))
+print("O quadrado de {} é: {}.".format(num, num ** 2))
